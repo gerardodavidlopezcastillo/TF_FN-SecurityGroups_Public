@@ -1,3 +1,8 @@
+# TF_FN-SecurityGroupsForEach_Public
+## **Description Details:**
+
+This repository explores the usage of the for_each meta-argument in Terraform, along with the toset and tomap functions, to efficiently create and manage security groups in AWS. From configuring SSH traffic to web access rules, optimize your infrastructure configurations.
+
 # Terraform for_each Meta-Argument with Functions toset, tomap
 ## Step-00: Pre-requisite Note
 - We are using the `default vpc` in `us-east-1` region
