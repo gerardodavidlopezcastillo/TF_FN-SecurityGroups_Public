@@ -1,3 +1,8 @@
+# 2. - TF_EC2-Example2
+## **Description Details:**
+
+This repository contains Terraform scripts to create EC2 instances in AWS, along with security group configurations to allow SSH traffic and web traffic (ports 80 and 443). It uses input variables to customize the region, instance type, and EC2 key pair.
+
 # Meta-Argument for_each with AZ Instance Type Check
 
 ## Step-00: Pre-requisite Note
